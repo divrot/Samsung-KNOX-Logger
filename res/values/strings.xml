@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Логування</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="sample_device_admin_description">Samsung MDM</string>
+    <string name="sample_device_admin">Grant Device Administrator Privilege</string>
+</resources>
